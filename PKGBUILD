@@ -43,8 +43,8 @@ fi
 
 pkgbase=linux-xanmod
 _srcname=linux
-pkgver=5.1.4
-xanmod=3
+pkgver=5.1.6
+xanmod=4
 pkgrel=1
 arch=(x86_64)
 url="http://www.xanmod.org/"
